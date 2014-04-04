@@ -5,7 +5,7 @@ Donate link:       http://kune.ourproject.org/donate/
 Tags:              kune, wave, apache wave, real-time, real-time editor, collaborate, kune.cc, embed, embeded
 Requires at least: 3.5.1
 Tested up to:      3.5.1
-Stable tag:        0.1.2
+Stable tag:        0.1.3
 Author:            Vicente J. Ruiz Jurado, from Comunes Collective
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
