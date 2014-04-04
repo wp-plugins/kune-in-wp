@@ -9,7 +9,7 @@ Stable tag:        0.1.2
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 
-This is a plugin to embed docs from kune.cc (and similar nodes) in Wordpress pages. Also will allow to use other kune functionalities in Wordpress. 
+This is a plugin to embed docs from kune.cc (and similar nodes) in Wordpress pages. Also it will allow to use other kune functionalities in Wordpress. 
 
 == Description ==
 
@@ -34,7 +34,7 @@ Also there is an editor button to include this shortcodes.
 
 = Manual Installation =
 
-1. Upload the entire `/kune_wp` directory to the `/wp-content/plugins/` directory.
+1. Upload the entire `/kune-in-wp` directory to the `/wp-content/plugins/` directory.
 2. Activate through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
