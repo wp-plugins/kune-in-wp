@@ -1,0 +1,35 @@
+LICENSES
+--------------------------------------------------------------------------------
+
+Kune in Wordpress plugin
+--------------------------------------------------------------------------------
+
+Copyright
+
+(c) 2007-2014 Licensed to the Comunes Association (CA) under one or
+more contributor license agreements. The CA licenses this software to
+you under the GNU General Public License version 3, (the "License");
+you may not use this software except in compliance with the License.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+other stuff (libraries, etc)
+--------------------------------------------------------------------------------
+#Spinner#
+  https://github.com/kvakes/spinner.svg
+  MIT License
+
+#phpunit#
+	http://phpunit.de
+  https://github.com/sebastianbergmann/phpunit/blob/master/

@@ -1,0 +1,13 @@
+/**
+ * Kune in Wordpress
+ * http://kune.ourproject.org/kune-wp/
+ *
+ * Copyright (c) 2014 Comunes Collective
+ * Licensed under the GPLv3+ license.
+ */
+/* Size of the loading spinner */
+.spin {
+  background: url(../../images/spinner.svg);
+  background-size: 20px;
+  height: 20px;
+  width: 20px; }
