@@ -6,6 +6,7 @@ Tags:              kune, wave, apache wave, real-time, real-time editor, collabo
 Requires at least: 3.5.1
 Tested up to:      3.5.1
 Stable tag:        0.1.2
+Author:            Vicente J. Ruiz Jurado, from Comunes Collective
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -13,9 +14,9 @@ This is a plugin to embed docs from kune.cc (and similar nodes) in Wordpress pag
 
 == Description ==
 
-This is a plugin to embed docs from kune.cc (and similar nodes) in Wordpress pages. Also it will allow to use other kune functionalities in Wordpress (like our [gtalk](https://en.wikipedia.org/wiki/Gtalk) compatible chat). 
+This is a plugin to embed docs from [kune.cc](http://kune.cc/) (and similar nodes) in Wordpress pages. Also it will allow to use other kune functionalities in Wordpress (like our [gtalk](https://en.wikipedia.org/wiki/Gtalk) compatible chat). 
 
-Just add a kune document with shorcodes like:
+Just add a kune document with shortcodes like:
 
 `[kune url='http://kune.cc/#!somegroup.docs.1.2']`
 
@@ -25,7 +26,7 @@ This plugin is inspired in the previous [Wave Wavr plugin](https://wordpress.org
 
 == Usage == 
 
-Just add a kune document with shorcodes like: 
+Just add a kune document with shortcodes like: 
 `[kune url='http://kune.cc/#!somegroup.docs.1.2']`
 
 Also there is an editor button to include this shortcodes.
