@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="772"
+   height="250"
+   id="svg6478"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="banner-772x250.svg"
+   inkscape:export-filename="/home/vjrj/proyectos/sync/kune-wp-plugin-svn/trunk/assets/banner-772x250.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6480" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#853a15"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="418.62434"
+     inkscape:cy="57.612173"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="864"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6483">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-802.36218)">
+    <path
+       style="font-size:58.13353348px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Emblem"
+       d="m 2588.8952,983.25357 c -6.7245,0 -13.188,0.0272 -19.6741,0.44707 -0.6054,0.12308 -1.1795,0.33305 -1.7885,0.44708 -6.0378,1.12773 -11.9947,2.08939 -18.3327,2.23573 -0.8779,0.12308 -1.8096,-0.13123 -2.6828,0 -51.7308,7.78805 -95.4381,30.24975 -130.5645,67.51795 -41.0214,43.3233 -61.7051,95.2234 -61.7051,155.6043 0,61.0584 20.6837,113.311 61.7051,156.4985 44.4058,46.5721 102.1012,69.7534 173.0426,69.7536 37.6365,-2e-4 73.8198,-9.3513 108.2076,-28.1698 34.3871,-18.2767 64.2868,-44.1447 89.8748,-76.9078 l -77.355,-42.9252 c -33.3047,44.4058 -74.225,66.6236 -122.963,66.6236 -33.8463,0 -64.1932,-10.9795 -90.3221,-32.6411 -26.5355,-21.6615 -39.7956,-48.0461 -39.7953,-79.5907 l 353.6866,0 0,-17.8856 c -3e-4,-76.4917 -25.9095,-137.743 -77.3549,-183.774 -43.3233,-38.3132 -91.3145,-57.23318 -143.9787,-57.23372 z m -1644.57603,3.12997 0,171.25406 -59.91655,0 0,87.6393 59.91655,0 0,178.8554 91.21623,0 0,-178.8554 54.9981,0 112.2319,178.8554 108.2075,0 -150.6857,-227.1464 143.9786,-202.10677 -110.4432,0 -111.3376,162.75847 -46.9496,0 0,-171.25406 -91.21623,0 z m 1119.18813,0 c -15.7022,2.80245 -30.3333,7.36369 -43.8196,14.30846 -22.7447,12.1849 -40.7009,28.2545 -54.1038,48.291 l 0,-54.10387 -91.6635,0 0,429.25317 91.6635,0 0,-240.5606 c -10e-5,-34.3871 9.7038,-60.7719 29.0641,-79.5907 19.495,-18.818 44.2103,-28.1695 74.672,-28.1697 32.2213,2e-4 57.3835,8.6462 75.1194,26.3812 17.7349,17.7356 26.3806,45.5311 26.3812,83.1678 l 0,238.772 91.6634,0 0,-258.8932 c -4e-4,-52.6643 -16.07,-96.1767 -48.291,-130.5646 -24.1663,-25.7903 -52.1285,-41.84313 -84.0621,-48.29096 l -66.6236,0 z m -694.8535,8.49559 0,248.60917 c -10e-5,58.2153 19.6254,105.2836 59.0223,141.2958 36.5536,33.846 81.8298,50.9736 135.0358,50.9738 53.7472,-2e-4 98.7938,-17.1278 135.4831,-50.9738 39.3964,-36.0122 59.0219,-83.0805 59.0223,-141.2958 l 0,-248.60917 -91.6634,0 0,240.56067 c -5e-4,31.68 -9.7044,57.4536 -29.064,77.355 -20.0373,20.5785 -44.3997,30.8525 -73.778,30.8525 -28.2954,2e-4 -52.8469,-10.4093 -72.8836,-30.8525 -19.9016,-20.5782 -29.5114,-46.2164 -29.5111,-77.355 l 0,-240.56067 -91.6634,0 z m 1208.6159,70.64797 c 29.9195,5e-4 56.0458,8.3879 78.2492,25.0398 21.5257,17.0586 37.3781,41.9095 47.3967,74.6722 l -246.3734,0 c 7.1752,-31.5443 22.0634,-56.0423 44.2667,-73.778 21.5259,-17.1934 46.9469,-25.9335 76.4608,-25.934 z"
+       id="path2585"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/kune-logo-1200.png"
+       inkscape:export-xdpi="399.59854"
+       inkscape:export-ydpi="399.59854"
+       inkscape:connector-curvature="0" />
+    <g
+       style="opacity:0.1;fill:#ffffff;stroke:#ffffff"
+       id="g6020"
+       transform="matrix(2.2952159,0,0,2.2922952,-129.64793,-1228.3894)"
+       inkscape:export-filename="/home/vjrj/proyectos/dev/kune/trunk/img/kune-logo-1200.png"
+       inkscape:export-xdpi="399.59854"
+       inkscape:export-ydpi="399.59854">
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:109.23953247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         d="m 60.321717,411.99998 377.014613,0"
+         id="path6022"
+         transform="matrix(0.240856,0.12287,-0.12287,0.240856,101.5762,778.871)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:109.23950958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         d="m 252.61203,788.60332 0,-377.01178"
+         id="path6024"
+         transform="matrix(0.240856,0.12287,-0.12287,0.240856,101.5762,778.871)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:109.23951721;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         d="m 252.86937,597.15755 377.0124,0"
+         id="path6026"
+         transform="matrix(0.240856,0.12287,-0.12287,0.240856,101.5762,778.871)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:109.23950195;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         d="m 437.45588,596.97447 0,-377.01491"
+         id="path6028"
+         transform="matrix(0.240856,0.12287,-0.12287,0.240856,101.5762,778.871)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:109.23947906;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:block"
+         d="m 372.87905,411.27704 64.93441,0"
+         id="path6030"
+         transform="matrix(0.240856,0.12287,-0.12287,0.240856,101.5762,778.871)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7056"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       transform="matrix(4.0654505,0,0,4.0654505,2284.2705,1185.8369)"><flowRegion
+         id="flowRegion7058"><rect
+           id="rect7060"
+           width="348.71619"
+           height="328.38745"
+           x="-474.92062"
+           y="-139.84126"
+           style="font-size:120px;fill:#ffffff;font-family:Times New Roman;-inkscape-font-specification:Times New Roman" /></flowRegion><flowPara
+         id="flowPara7062"
+         style="font-weight:bold;fill:#ffffff">W</flowPara></flowRoot>  </g>
+</svg>
