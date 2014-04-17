@@ -2,9 +2,9 @@
 
 Contributors:      vjrj
 Donate link:       http://kune.ourproject.org/donate/
-Tags:              kune, wave, apache wave, real-time, real-time editor, collaborate, kune.cc, embed, embeded
+Tags:              kune, wave, apache wave, real-time, real-time editor, collaborate, kune.cc, embed, embeded, collaborative real-time editor, free culture
 Requires at least: 3.5.1
-Tested up to:      3.5.1
+Tested up to:      3.9
 Stable tag:        0.1.3
 Author:            Vicente J. Ruiz Jurado, from Comunes Collective
 License:           GPLv3 or later
