@@ -1,0 +1,12 @@
+{
+  "name": "kune-index",
+  "description": "",
+  "homepage": "",
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.5.4",
+    "paper-elements": "Polymer/paper-elements#0.5.4"
+  }
+}

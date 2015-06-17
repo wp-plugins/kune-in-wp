@@ -2,7 +2,7 @@
   "name": "kune-wp",
   "title": "Kune in Wordpress",
   "description": "This is a plugin to embed kune docs and functionality in Wordpress",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "homepage": "http://kune.ourproject.org/kune-wp/",
   "author": {
     "name": "Vicente J. Ruiz Jurado, from Comunes Collective",

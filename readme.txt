@@ -4,8 +4,8 @@ Contributors:      vjrj
 Donate link:       http://kune.ourproject.org/donate/
 Tags:              kune, wave, apache wave, real-time, real-time editor, collaborate, kune.cc, embed, embeded, collaborative real-time editor, free culture
 Requires at least: 3.5.1
-Tested up to:      3.9
-Stable tag:        0.1.3
+Tested up to:      4.2.2
+Stable tag:        0.1.4
 Author:            Vicente J. Ruiz Jurado, from Comunes Collective
 License:           GPLv3 or later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
@@ -42,13 +42,20 @@ Also there is an editor button to include this shortcodes.
 
 = Can I edit kune documents from my Wordpress? =
 
-Right now it's not allowed, but we are working on that.
+Yes. You can also disable this adding readOnly="true" in the kune shortcode.
 
 == Screenshots ==
 
 1. The kune shortcode and editor button that helps to insert kune documents in Wordpress.
 
 == Changelog ==
+
+= 0.1.4 =
+* Mayor changes to allow live editing of Kune documents from your Wordpress
+* Update plugin to new kune 0.1.0 version
+
+= 0.1.3 =
+* Minor documentation updates
 
 = 0.1.2 =
 * Minor documentation updates
