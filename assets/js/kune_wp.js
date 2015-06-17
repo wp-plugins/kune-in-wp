@@ -1,6 +1,6 @@
-/*! Kune in Wordpress - v0.1.0
+/*! Kune in Wordpress - v0.1.2
  * http://kune.ourproject.org/kune-wp/
- * Copyright (c) 2014; * Licensed GPLv3+ */
+ * Copyright (c) 2015; * Licensed GPLv3+ */
 /*global document*/
 
 var kuneIdToEmbed; // something like 'troco.docs.4590.2612';
