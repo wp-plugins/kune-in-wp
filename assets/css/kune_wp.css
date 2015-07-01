@@ -7,7 +7,338 @@
  */
 /* Size of the loading spinner */
 .spin {
-  background: url(../../images/spinner.svg);
-  background-size: 20px;
-  height: 20px;
-  width: 20px; }
+  background-size: 30px;
+  height: 30px;
+  width: 30px; }
+
+/* kune wave css */
+.k-embed-sitebar a {
+  white-space: nowrap;
+  color: #808080; }
+
+.k-embed-sitebar a,
+.k-embed-sitebar a:hover {
+  text-decoration: none; }
+
+.k-embed-sitebar a:hover {
+  color: #000; }
+
+.k-embed-sitebar div {
+  text-decoration: none; }
+
+.k-embed-sitebar > div > div > button > i {
+  font-size: 12px; }
+
+.btn_green {
+  color: white;
+  background-color: #99bb00; }
+
+#edit_docgroup_fab, #reply_docgroup_fab, #editdone_docgroup_fab {
+  display: none; }
+
+#edit_inbox_fab, #reply_inbox_fab, #editdone_inbox_fab {
+  position: fixed;
+  z-index: 1; }
+
+#edit_inbox_fab {
+  top: 200px;
+  right: 5px; }
+
+#reply_inbox_fab {
+  top: 255px;
+  right: 5px; }
+
+#editdone_inbox_fab {
+  top: 310px;
+  right: 5px; }
+
+paper-fab[disabled] {
+  color: #808080;
+  background-color: #CCC; }
+
+.org-waveprotocol-wave-client-wavepanel-view-dom-full-ParticipantsViewBuilder-Css-simple,
+.org-waveprotocol-wave-client-wavepanel-view-dom-full-ParticipantsViewBuilder-Css-panel {
+  border-bottom: 0px !important;
+  border-left: 0px !important;
+  background-color: transparent !important; }
+
+.org-waveprotocol-wave-client-wavepanel-view-dom-full-BlipViewBuilder-Css-rootBlip {
+  border: 0px !important; }
+
+.org-waveprotocol-wave-client-widget-toolbar-ToplevelToolbarWidget-Css-toolbar {
+  background: none repeat scroll 0 0 #F2F2F2 !important; }
+
+/* kune shortcode dialog form */
+.kune-mce-form li {
+  width: 61%; }
+
+.kune-mce-form {
+  margin: 20px; }
+
+.kune-mce-form ul {
+  font-size: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+
+.kune-mce-form li {
+  display: block;
+  margin: 0;
+  padding: 4px 5px 2px 9px;
+  position: relative; }
+
+.kune-mce-form li:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden; }
+
+.buttons:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden; }
+
+.buttons {
+  clear: both;
+  display: block;
+  margin-top: 10px; }
+
+* html .kune-mce-form li {
+  height: 1%; }
+
+* html .buttons {
+  height: 1%; }
+
+* html form li div {
+  display: inline-block; }
+
+.kune-mce-form li div {
+  color: #444;
+  margin: 0 4px 0 0;
+  padding: 0 0 8px; }
+
+form li span {
+  color: #444;
+  float: left;
+  margin: 0 4px 0 0;
+  padding: 0 0 8px; }
+
+.kune-mce-form li div.left {
+  display: inline;
+  float: left;
+  width: 48%; }
+
+.kune-mce-form li div.right {
+  display: inline;
+  float: right;
+  width: 48%; }
+
+.kune-mce-form li div.left .medium {
+  width: 100%; }
+
+.kune-mce-form li div.right .medium {
+  width: 100%; }
+
+.clear {
+  clear: both; }
+
+.kune-mce-form li div label {
+  clear: both;
+  color: #444;
+  display: block;
+  font-size: 9px;
+  line-height: 9px;
+  margin: 0;
+  padding-top: 3px; }
+
+.kune-mce-form li span label {
+  clear: both;
+  color: #444;
+  display: block;
+  font-size: 9px;
+  line-height: 9px;
+  margin: 0;
+  padding-top: 3px; }
+
+.kune-mce-form li .datepicker {
+  cursor: pointer !important;
+  float: left;
+  height: 16px;
+  margin: .1em 5px 0 0;
+  padding: 0;
+  width: 16px; }
+
+.form_description {
+  border-bottom: 1px dotted #ccc;
+  clear: both;
+  display: inline-block;
+  margin: 0 0 1em; }
+
+.form_description[class] {
+  display: block; }
+
+.form_description h2 {
+  clear: left;
+  font-size: 160%;
+  font-weight: 400;
+  margin: 0 0 3px; }
+
+.form_description p {
+  font-size: 95%;
+  line-height: 130%;
+  margin: 0 0 12px; }
+
+.kune-mce-form hr {
+  display: none; }
+
+.kune-mce-form li.section_break {
+  border-top: 1px dotted #ccc;
+  margin-top: 9px;
+  padding-bottom: 0;
+  padding-left: 9px;
+  padding-top: 13px;
+  width: 97% !important; }
+
+.kune-mce-form ul li.first {
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important; }
+
+.kune-mce-form .section_break h3 {
+  font-size: 110%;
+  font-weight: 400;
+  line-height: 130%;
+  margin: 0 0 2px; }
+
+.kune-mce-form .section_break p {
+  font-size: 85%;
+  margin: 0 0 10px; }
+
+/**** Buttons ****/
+input.button_text {
+  overflow: visible;
+  padding: 0 7px;
+  width: auto; }
+
+.buttons input {
+  font-size: 120%;
+  margin-right: 5px; }
+
+/**** Inputs and Labels ****/
+label.description {
+  border: none;
+  color: #222;
+  display: block;
+  font-size: 95%;
+  font-weight: 700;
+  line-height: 150%;
+  padding: 0 0 1px; }
+
+span.symbol {
+  font-size: 115%;
+  line-height: 130%; }
+
+input.text {
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  border-top: 1px solid #7c7c7c;
+  color: #333;
+  font-size: 100%;
+  margin: 0;
+  padding: 2px 0; }
+
+input.file {
+  color: #333;
+  font-size: 100%;
+  margin: 0;
+  padding: 2px 0; }
+
+textarea.textarea {
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  border-top: 1px solid #7c7c7c;
+  color: #333;
+  font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+  font-size: 100%;
+  margin: 0;
+  width: 99%; }
+
+select.select {
+  color: #333;
+  font-size: 100%;
+  margin: 1px 0;
+  padding: 1px 0 0;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #c3c3c3;
+  border-top: 1px solid #7c7c7c; }
+
+input.currency {
+  text-align: right; }
+
+input.checkbox {
+  display: block;
+  height: 13px;
+  line-height: 1.4em;
+  margin: 6px 0 0 3px;
+  width: 13px; }
+
+input.radio {
+  display: block;
+  height: 13px;
+  line-height: 1.4em;
+  margin: 6px 0 0 3px;
+  width: 13px; }
+
+label.choice {
+  color: #444;
+  display: block;
+  font-size: 100%;
+  line-height: 1.4em;
+  margin: -1.55em 0 0 25px;
+  padding: 4px 0 5px;
+  width: 90%; }
+
+select.select[class] {
+  margin: 0;
+  padding: 1px 0; }
+
+*:first-child + html select.select[class] {
+  margin: 1px 0; }
+
+.safari select.select {
+  font-size: 120% !important;
+  margin-bottom: 1px; }
+
+input.small {
+  width: 25%; }
+
+select.small {
+  width: 25%; }
+
+input.medium {
+  width: 50%; }
+
+select.medium {
+  width: 50%; }
+
+input.large {
+  width: 99%; }
+
+select.large {
+  width: 100%; }
+
+textarea.small {
+  height: 5.5em; }
+
+textarea.medium {
+  height: 10em; }
+
+textarea.large {
+  height: 20em; }
