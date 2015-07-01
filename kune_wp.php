@@ -3,7 +3,7 @@
  * Plugin Name: Kune in Wordpress
  * Plugin URI:  http://kune.ourproject.org/kune-wp/
  * Description: This is a plugin to embed docs from kune.cc (and similar nodes) in Wordpress pages. Also will allow to use other kune functionalities in Wordpress.
- * Version:     0.1.4
+ * Version:     0.1.5
  * Author:      Vicente J. Ruiz Jurado, from Comunes Collective
  * Author URI:  http://comunes.org/
  * License:     GPLv3+
@@ -42,7 +42,7 @@
  */
 
 // Useful global constants
-define( 'KUNE_WP_PLUGIN_VERSION', '0.1.4' );
+define( 'KUNE_WP_PLUGIN_VERSION', '0.1.5' );
 define( 'KUNE_WP_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'KUNE_WP_PLUGIN_PATH', dirname( __FILE__ ) . '/' );
 
