@@ -52,7 +52,7 @@ Yes. You can also disable this adding readOnly="true" in the kune shortcode.
 
 = 0.1.4 =
 * Mayor changes to allow live editing of Kune documents from your Wordpress
-* Update plugin to new kune 0.1.0 version
+* Update plugin to new kune 1.0.0 version
 
 = 0.1.3 =
 * Minor documentation updates
