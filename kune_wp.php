@@ -83,7 +83,7 @@ if ( is_admin() ) {
      add_action('admin_init', 'register_kunesettings' ); */
 }
 
-function register_mysettings() { // whitelist options
+function register_kune_settings() { // whitelist options
   /* register_setting( 'kune-option-group', 'new_option_name' );
   register_setting( 'kune-option-group', 'some_other_option' );
   register_setting( 'kune-option-group', 'option_etc' ); */
